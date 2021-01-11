@@ -5,7 +5,7 @@ A simple program for constructing mathematical functions.
 Для построения графиков используется библиотека matplotlib.
 Чтобы сделать такие же кнопки matplotlib как у меня, разархивируйте архив image с согласием на замену в:
 
-"C:\Users\{user}\AppData\Roaming\Python\Python39\site-packages\matplotlib\mpl-data\images"
+"C:\Users\{user}\AppData\Roaming\Python\Python39\site-packages\matplotlib\mpl-data\images" или в вашу директорию с библиотеками.
 
 Чтобы сделать иконку в окне программы, создайте папку где вам удобно и положите в нее icon и icon1, после чего пропишите в коде путь к этой папке 
 (Например: C:\Python IMG\icon.ico
